@@ -1,6 +1,6 @@
 {
   "name": "zoho",
-  "version": "0.4.4",
+  "version": "0.5.0",
   "description": "Node.js client library for Zoho",
   "main": "./lib/index.js",
   "directories": {
@@ -33,6 +33,7 @@
     "sinon": "^1.14.1"
   },
   "dependencies": {
+    "lodash": "~4.5.1",
     "qs": "^2.4.1"
   }
 }
